@@ -19,10 +19,6 @@ views:
 Om
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
+Denna kurs fokuserar på objektsorienterad programmering i PHP.
 
-Skriv några kloka ord om kursen?
-
-Lägg till en fin och representativ bild för kursen, enligt ditt eget val.
-
-[FIGURE src=image/car.png?w=740&filter=grayscale&f1=colorize,0,30,0,0 caption="En fin bil som demobild, lite oklart hur den är representativ, men ändå..."]
+[FIGURE src=image/artbreeder.png?w=740&filter=grayscale&f1=colorize,0,30,0,0 caption="Denna bild är genererad med hjälp av AI på artbreeder.com"]
