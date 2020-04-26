@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    margin: 75px 0px 10px 0px;
+    font-size: 35px;
+}
+
+.guess-input {
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 4px;
+    border: 1px solid #c5c5c5;
+    margin: 30px 0px 10px 0px;
+}
+
+.btn {
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 4px;
+    border: 1px solid #c5c5c5;
+    background: #fff;
+    cursor: pointer;
+    transition: 150ms all ease-in-out;
+}
+
+.btn:hover {
+    background: #eeeded;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.tries {
+    margin-top: 20px;
+    font-weight: 500;
+}
+
+.cheat {
+    padding: 20px;
+    border-radius: 100px;
+}
